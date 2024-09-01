@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Swarna Enclave",
+    "price": " 92 Lakhs",
+    "detail": "Newtown, Kolkata, West Bengal",
+    "image": "./properties1.jpg"
+  },
+  {
+    "name": "Sneh Sadan",
+    "price": " 86 Lakhs",
+    "detail": "Prithwiraj Road, Delhi",
+    "image": "./properties2.jpg"
+  },
+  {
+    "name": "Vrindavan Retreat",
+    "price": " 89 lakhs",
+    "detail": "Manek Chowk, Ahmedabad, Gujarat",
+    "image": "./properties3.jpg"
+  },
+  {
+    "name": "Pushp Vakita",
+    "price": " 99 Lakhs",
+    "detail": "Suranjandas Road, Bengaluru, Karnataka",
+    "image": "./properties4.jpg"
+  },
+  {
+    "name": "Aangan Heights",
+    "price": " 73 Lakhs",
+    "detail": "Akhbar Road, Durgapur, West Bengal",
+    "image": "./properties5.jpg"
+  }
+  
+]

@@ -4,7 +4,8 @@ We have Created the website by using:
 1. 'React' in Frontend
 2. 'HTML', 'CSS', and 'JAVASCRIPT' in backend
 
-Deployed Link for the Frontend of the Website:  https://sapphire-lands-2svx26qoh-survi09mukherjees-projects.vercel.app
+Deployed Link for the Frontend of the project:
+https://sapphire-lands-real-estates.vercel.app/
 
 Home Page...
 ![Cover Page](ss/1.PNG)
